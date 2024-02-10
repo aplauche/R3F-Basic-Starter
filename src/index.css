@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+/* For views */
+.canvas {
+  position: fixed !important;
+  top: 0px;
+  left: 0px;
+  width: 100vw !important;
+  height: 100vh !important;
+}
